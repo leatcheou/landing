@@ -1,0 +1,10 @@
+.quiz {
+    width: 700px;
+ 	margin: 80px auto;
+ 	align-items: center;
+}
+
+a {
+	justify-content: center;
+	display: flex;
+}
